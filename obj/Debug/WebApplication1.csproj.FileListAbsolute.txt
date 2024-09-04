@@ -1,0 +1,152 @@
+D:\Ринату\WebApplication1\bin\WebApplication1.dll.config
+D:\Ринату\WebApplication1\bin\WebApplication1.dll
+D:\Ринату\WebApplication1\bin\WebApplication1.pdb
+D:\Ринату\WebApplication1\bin\roslyn\csc.exe
+D:\Ринату\WebApplication1\bin\roslyn\csc.exe.config
+D:\Ринату\WebApplication1\bin\roslyn\csc.rsp
+D:\Ринату\WebApplication1\bin\roslyn\csi.exe
+D:\Ринату\WebApplication1\bin\roslyn\csi.exe.config
+D:\Ринату\WebApplication1\bin\roslyn\csi.rsp
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ринату\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Console.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Ринату\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ринату\WebApplication1\bin\roslyn\vbc.exe
+D:\Ринату\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Ринату\WebApplication1\bin\roslyn\vbc.rsp
+D:\Ринату\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Ринату\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Ринату\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Ринату\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Ринату\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Ринату\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Ринату\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Ринату\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ринату\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Ринату\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Ринату\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Ринату\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Ринату\WebApplication1\bin\System.Web.Optimization.dll
+D:\Ринату\WebApplication1\bin\WebGrease.dll
+D:\Ринату\WebApplication1\bin\System.Web.Optimization.xml
+D:\Ринату\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Ринату\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Ринату\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Ринату\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ринату\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\Ринату\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Ринату\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Ринату\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Ринату\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Ринату\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Ринату\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\приложения C#\Aps net приложение\WebApplication1\bin\WebApplication1.dll.config
+D:\приложения C#\Aps net приложение\WebApplication1\bin\WebApplication1.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\WebApplication1.pdb
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csc.exe
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csc.exe.config
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csc.rsp
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csi.exe
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csi.exe.config
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\csi.rsp
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Console.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\vbc.exe
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\vbc.exe.config
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\vbc.rsp
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\приложения C#\Aps net приложение\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Antlr3.Runtime.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Newtonsoft.Json.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\System.Web.Optimization.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\WebGrease.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\System.Web.Optimization.xml
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Newtonsoft.Json.xml
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\приложения C#\Aps net приложение\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\приложения C#\Aps net приложение\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\приложения C#\Aps net приложение\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\приложения C#\Aps net приложение\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\приложения C#\Aps net приложение\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\приложения C#\Aps net приложение\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\приложения C#\Aps net приложение\WebApplication1\obj\Debug\WebApplication1.dll
+D:\приложения C#\Aps net приложение\WebApplication1\obj\Debug\WebApplication1.pdb
